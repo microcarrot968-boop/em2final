@@ -1,0 +1,5 @@
+path: /home/girlgroup/EM2/finalproj/dataset/split
+train: images/train
+val: images/val
+nc: 6
+names: ['stop', 'do_not_enter', 'school_zone', 'crosswalk', 'speed_30', 'speed_50']

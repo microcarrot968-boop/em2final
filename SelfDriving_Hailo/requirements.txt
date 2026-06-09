@@ -1,0 +1,27 @@
+# Core scientific computing
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.5.0
+scipy>=1.7.0
+seaborn>=0.11.0
+
+# Computer vision and image processing
+opencv-python>=4.5.0
+Pillow>=8.0.0
+
+# Machine learning and AI
+tflite-runtime>=2.7.0
+
+# Raspberry Pi specific
+picamera2>=0.3.0
+RPi.GPIO>=0.7.0
+
+# Hardware control libraries
+adafruit-circuitpython-servokit>=1.3.0
+adafruit-circuitpython-motor>=3.4.0
+adafruit-circuitpython-ssd1306==2.12.22
+adafruit-circuitpython-framebuf>=2.0.0
+
+# Additional utilities
+argparse
+json5>=0.9.0
